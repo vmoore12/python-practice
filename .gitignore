@@ -4,3 +4,4 @@
 /venv
 
 variables.env
+firebase-debug.log
